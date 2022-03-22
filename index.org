@@ -1,5 +1,7 @@
 #+TITLE: Namaste, my name is Suryaansh 🌞
-#+HTML_HEAD: <style>pre.src {background-color: #303030; color: #e5e5e5;}</style> <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css">
+#+INFOJS_OPT: view:t toc:t ltoc:t mouse:underline buttons:0 path:http://thomasf.github.io/solarized-css/org-info.min.js
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-dark.min.css" />
+
 #+EXPORT_FILE_NAME: index.html
 
 https://cloud-fhk8pfxg9-hack-club-bot.vercel.app/0webp.net-resizeimage.png
