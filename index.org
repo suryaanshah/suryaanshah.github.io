@@ -1,0 +1,4 @@
+#+TITLE: Namaste, my name is Suryaansh 🌞
+* How to reach out to me:
+[[https://github.com/suryaanshah][Github]] \\
+[[https://app.slack.com/client/T0266FRGM/C01504DCLVD/user_profile/U02QN9S567M][Slack]]
