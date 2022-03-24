@@ -15,7 +15,8 @@ I enjoy teaching. I help students at a non-profit [[https://schoolhouse.world/tu
 
 I created my school's first ever CS club. Big thanks to the non-profit [[https://apacdirectory.hackclub.com/club/brightqcbyteclub][Hack Club]].\\
 
-
+* Checkout my blog:
+[[https://medium.com/@suryaanshchawla][Medium]]
 
 
 * How to reach out to me:
