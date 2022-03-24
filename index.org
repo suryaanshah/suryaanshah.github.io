@@ -15,11 +15,16 @@ I enjoy teaching. I help students at a non-profit [[https://schoolhouse.world/tu
 
 I created my school's first ever CS club. Big thanks to the non-profit [[https://apacdirectory.hackclub.com/club/brightqcbyteclub][Hack Club]].\\
 
-* Checkout my blog:
-[[https://medium.com/@suryaanshchawla][Medium]]
+* Check me out:
 
+My blog at: [[https://medium.com/@suryaanshchawla][Medium]] \\
+
+Check out my projects at: [[https://github.com/suryaanshah][Github]] \\
+
+Here's my public learning diary:  [[https://scrapbook.hackclub.com/SuryaanshChawla-U02QN9S567M][Scrapbook]] \\
 
 * How to reach out to me:
-Check out my projects at: [[https://github.com/suryaanshah][Github]] \\
+
 Message me on: [[https://app.slack.com/client/T0266FRGM/C01504DCLVD/user_profile/U02QN9S567M][Slack]] \\
-Here's my public learning diary aka: [[https://scrapbook.hackclub.com/SuryaanshChawla-U02QN9S567M][Scrapbook]] \\
+
+Email me: [[mailto:suryaanshchawla@gmail.com][suryaanshchawla@gmail.com]]
