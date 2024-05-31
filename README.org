@@ -1,2 +1,0 @@
-#+TITLE: Namaste, my name is Suryaansh 🌞
-And this is the repo for my website :)
