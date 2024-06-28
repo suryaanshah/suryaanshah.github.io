@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2024-06-28 Fri 08:38 -->
+<!-- 2024-06-28 Fri 08:35 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Namaste, my name is Suryaansh 🌞</title>
@@ -235,10 +235,11 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orga0fa735">1. Introduction:</a></li>
-<li><a href="#org2a904ff">2. Check me out:</a></li>
-<li><a href="#org35cdc8f">3. How to reach out to me:</a></li>
-<li><a href="#orgc476026">4. Donate to me for fun:</a></li>
+<li><a href="#orgb180390">1. Introduction:</a></li>
+<li><a href="#orgcc1b3b3">2. Check me out:</a></li>
+<li><a href="#org5b8606e">3. How to reach out to me:</a></li>
+<li><a href="#org9cfc17d">4. Donate to me for fun:</a></li>
+<li><a href="#orgb10fddb">5. Solve this chess puzzle:</a></li>
 </ul>
 </div>
 </div>
@@ -248,8 +249,8 @@ for the JavaScript code in this tag.
 </p>
 </div>
 
-<div id="outline-container-orga0fa735" class="outline-2">
-<h2 id="orga0fa735"><span class="section-number-2">1</span> Introduction:</h2>
+<div id="outline-container-orgb180390" class="outline-2">
+<h2 id="orgb180390"><span class="section-number-2">1</span> Introduction:</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 I am a 17 year old computer lover. Some of my favourite tools include: <br />
@@ -269,8 +270,8 @@ I created my school's first ever CS club. Big thanks to the non-profit <a href="
 </div>
 </div>
 
-<div id="outline-container-org2a904ff" class="outline-2">
-<h2 id="org2a904ff"><span class="section-number-2">2</span> Check me out:</h2>
+<div id="outline-container-orgcc1b3b3" class="outline-2">
+<h2 id="orgcc1b3b3"><span class="section-number-2">2</span> Check me out:</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 My blog at: <a href="https://medium.com/@suryaanshchawla">Medium</a> <br />
@@ -286,8 +287,8 @@ Here's my public learning diary:  <a href="https://scrapbook.hackclub.com/Suryaa
 </div>
 </div>
 
-<div id="outline-container-org35cdc8f" class="outline-2">
-<h2 id="org35cdc8f"><span class="section-number-2">3</span> How to reach out to me:</h2>
+<div id="outline-container-org5b8606e" class="outline-2">
+<h2 id="org5b8606e"><span class="section-number-2">3</span> How to reach out to me:</h2>
 <div class="outline-text-2" id="text-3">
 <p>
 Message me on <a href="https://getsession.org/">Session</a> : 056fc5c23a95e2bb21762a0b4453f2e92ac4494307d39c9cee3fcff16c47d9dc5d <br />
@@ -297,23 +298,34 @@ Message me on <a href="https://getsession.org/">Session</a> : 056fc5c23a95e2bb21
 Email me: <a href="mailto:suryaanshchawla@gmail.com">suryaanshchawla@gmail.com</a> OR if you want to stay anonymous, I accept guerilla mail too. <br />
 OR try emailing my tutanota email: <a href="mailto:suryaanshchawla@tuta.com">suryaanshchawla@tuta.com</a> 
 </p>
+
+<p>
+Message me on: <a href="https://app.slack.com/client/T0266FRGM/C01504DCLVD/user_profile/U02QN9S567M">Slack</a> <br />
+</p>
 </div>
 </div>
 
-
-
-<div id="outline-container-orgc476026" class="outline-2">
-<h2 id="orgc476026"><span class="section-number-2">4</span> Donate to me for fun:</h2>
+<div id="outline-container-org9cfc17d" class="outline-2">
+<h2 id="org9cfc17d"><span class="section-number-2">4</span> Donate to me for fun:</h2>
 <div class="outline-text-2" id="text-4">
 <p>
 You can donate to me using monero: 85L2Ybj7E3iSLHLpbQVeeja6cUigjwSaiDm3BDjahCXdcr6LUE36tYh3CJKChpnY1W1Ky5w2K3fddToKRgwP6VboJ9em1Mj
 </p>
 </div>
 </div>
+
+<div id="outline-container-orgb10fddb" class="outline-2">
+<h2 id="orgb10fddb"><span class="section-number-2">5</span> Solve this chess puzzle:</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+#+BEGIN<sub>EXPORT</sub> &lt;iframe src="<a href="https://lichess.org/training/frame?theme=brown&amp;bg=dark">https://lichess.org/training/frame?theme=brown&amp;bg=dark</a>" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"&gt;&lt;/iframe&gt;  #+END<sub>EXPORT</sub> 
+</p>
+</div>
+</div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Suryaansh Chawla</p>
-<p class="date">Created: 2024-06-28 Fri 08:38</p>
+<p class="date">Created: 2024-06-28 Fri 08:35</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

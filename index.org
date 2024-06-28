@@ -7,7 +7,7 @@
 https://cloud-fhk8pfxg9-hack-club-bot.vercel.app/0webp.net-resizeimage.png
 
 * Introduction:
-I am a 15 year old computer lover. Some of my favourite tools include: \\
+I am a 17 year old computer lover. Some of my favourite tools include: \\
 + Emacs (This site is written with org-mode <3) \\
 + GNU/Linux - Ditch proprietary stuff right now! \\
 
@@ -28,10 +28,10 @@ Here's my public learning diary:  [[https://scrapbook.hackclub.com/SuryaanshChaw
 Message me on [[https://getsession.org/][Session]] : 056fc5c23a95e2bb21762a0b4453f2e92ac4494307d39c9cee3fcff16c47d9dc5d \\
 
 Email me: [[mailto:suryaanshchawla@gmail.com][suryaanshchawla@gmail.com]] OR if you want to stay anonymous, I accept guerilla mail too. \\
-OR try emailing my tutanota email: [[mailto:ghsur@tutanota.com][ghsur@tutanota.com]] 
+OR try emailing my tutanota email: [[mailto:suryaanshchawla@tuta.com][suryaanshchawla@tuta.com]] 
 
-Message me on: [[https://app.slack.com/client/T0266FRGM/C01504DCLVD/user_profile/U02QN9S567M][Slack]] \\
+
 
 * Donate to me for fun:
 You can donate to me using monero: 85L2Ybj7E3iSLHLpbQVeeja6cUigjwSaiDm3BDjahCXdcr6LUE36tYh3CJKChpnY1W1Ky5w2K3fddToKRgwP6VboJ9em1Mj
-I am not a non-profit. You are responsible for you own donations. This is just added for fun.
+
