@@ -30,7 +30,7 @@ Message me on [[https://getsession.org/][Session]] : 056fc5c23a95e2bb21762a0b445
 Email me: [[mailto:suryaanshchawla@gmail.com][suryaanshchawla@gmail.com]] OR if you want to stay anonymous, I accept guerilla mail too. \\
 OR try emailing my tutanota email: [[mailto:suryaanshchawla@tuta.com][suryaanshchawla@tuta.com]] 
 
-
+#+HTML <iframe src="https://lichess.org/training/frame?theme=brown&bg=dark" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"></iframe>
 
 * Donate to me for fun:
 You can donate to me using monero: 85L2Ybj7E3iSLHLpbQVeeja6cUigjwSaiDm3BDjahCXdcr6LUE36tYh3CJKChpnY1W1Ky5w2K3fddToKRgwP6VboJ9em1Mj
