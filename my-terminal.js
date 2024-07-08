@@ -15,4 +15,17 @@ const greetings = ' /$$   /$$                                               /$$ 
                                                                                                    \______/                                                                                                            \______/                                                        
 '
 
+const font = 'Slant';
 
+figlet.defaults({ fontPath: 'https://unpkg.com/figlet/fonts/' });
+figlet.preloadFonts([font], ready)
+
+
+
+const term = $('body').terminal(commands, {
+    greetings: false
+});
+
+function ready() {
+   term.echo(greetings);
+}
