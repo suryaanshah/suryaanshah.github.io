@@ -29,3 +29,12 @@ const term = $('body').terminal(commands, {
 function ready() {
    term.echo(greetings);
 }
+
+function render(text) {
+    const cols = term.cols();
+    return figlet.textSync(text, {
+        font: font,
+        width: cols,
+        whitespaceBreak: true
+    });
+}
