@@ -38,3 +38,10 @@ function render(text) {
         whitespaceBreak: true
     });
 }
+
+function ready() {
+   term.echo(() => {
+     const ascii = render('Terminal Portfolio');
+     return `${ascii}\nWelcome to my Terminal Portfolio\n`;
+   });
+}
