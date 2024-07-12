@@ -27,6 +27,12 @@
         .section {
             padding: 50px 0; 
         }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
 
         .social-links {
         display: flex; 
@@ -49,6 +55,21 @@
             background-size: cover;
             background-position: center;
             color: white;
+            align-items: center;
+        }
+
+        .repo-card {
+            width: 300px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.2s;
+        }
+        .repo-card:hover {
+            transform: scale(1.05);
+        }
+        .repo-card img {
+            width: 100%;
         }
 
     </style>
@@ -116,10 +137,23 @@
     <section id="proects" class="section">
         <div class="container">
             <h2>My Projects</h2>
-            <ol>
-                <li><a href="https://github.com/suryaanshah/my-wc-for-linux">wc in python</a></li>
-                <li><a href="https://github.com/suryaanshah/phone-pattern-strength-checker" >phone pattern security strength (in progress)</a></li>
-            </ol>
+            
+            <div class="repo-card">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaanshah&repo=my-wc-for-linux" alt="my-wc-for-linux">
+            </div>
+
+            <div class="repo-card">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaanshah&repo=phone-pattern-strength-checker " alt="phone-pattern-strength-checker">
+            </div>
+
+            <div class="repo-card">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaanshah&repo=Ad-Revenue-to-Climate-Hompage" alt="Ad-Revenue-to-Climate-Hompage">
+            </div>
+
+            <div class="repo-card">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaanshah&repo=Programming-Abhyasa" alt="Programming-Abhyasa">
+            </div>
+
         </div>
     </section>
 
