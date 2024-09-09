@@ -1,6 +1,8 @@
 # My site
 
 This is a simple portfolio website. This is version 1.
+![image](https://github.com/user-attachments/assets/630edf84-f590-452d-9194-15fbe9b17ece)
+
 
 # Dependencies and Acknowledgement
 1. [To show-case the projects](https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-github-projects-le3)
