@@ -28,23 +28,25 @@
             white-space: normal;
         }
 
-        /* Adjust icon size for desktop */
-        .icon {
-            font-size: 2rem; /* Increase icon size */
-            margin-right: 10px;
-        }
-
-        /* Ensure proper alignment of the icons under the image */
+        /* Social icons styling */
         .social-icons {
             display: flex;
             justify-content: center;
             gap: 10px;
+            flex-wrap: wrap; /* Allow wrapping, but keep them in a row if space permits */
+        }
+
+        .icon {
+            font-size: 2rem; /* Increase icon size */
+            margin-right: 10px;
+            margin-bottom: 10px; /* Ensure there's space below icons when wrapping occurs */
         }
 
         /* Responsive adjustments */
         @media (max-width: 768px) {
+            /* We keep the icons in a row even on smaller screens, wrapping when necessary */
             .social-icons {
-                flex-direction: column;
+                justify-content: center;
             }
         }
 
