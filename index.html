@@ -133,13 +133,31 @@
     <section id="Donation" class="section">
         <div class="container">
             <h2>Donation</h2>
-            <p>You can donate to me using monero (xmr):</p>
-            <p class="donation-address">
-                85L2Ybj7E3iSLHLpbQVeeja6cUigjwSaiDm3BDjahCXdcr6LUE36tYh3CJKChpnY1W1Ky5w2K3fddToKRgwP6VboJ9em1Mj
-            </p>
-            <img src="xmr-site.png" alt="QR for xmr donation" class="img-fluid">
+            <p>You can donate to me using Monero (XMR) or UPI:</p>
+            <div class="d-flex flex-wrap align-items-center gap-4">
+                <!-- Monero Donation -->
+                <div class="monero-donation">
+                    <img src="donate-monero-black.png" alt="Monero Logo" class="img-fluid" style="max-width: 100px;">
+                    <p class="mt-2 mb-1">Monero Address:</p>
+                    <div class="input-group">
+                        <input type="text" id="monero-address" class="form-control" 
+                               value="85L2Ybj7E3iSLHLpbQVeeja6cUigjwSaiDm3BDjahCXdcr6LUE36tYh3CJKChpnY1W1Ky5w2K3fddToKRgwP6VboJ9em1Mj" 
+                               readonly>
+                        <button class="btn btn-outline-secondary" onclick="copyMoneroAddress()">Copy</button>
+                    </div>
+                    <img src="xmr-site.png" alt="QR for XMR Donation" class="img-fluid mt-3" style="max-width: 150px;">
+                </div>
+    
+                <!-- UPI Donation -->
+                <div class="upi-donation">
+                    <img src="695px-UPI-Logo-vector.svg.png" alt="UPI Logo" class="img-fluid" style="max-width: 100px;">
+                    <p class="mt-2 mb-1">Scan QR for UPI Donation:</p>
+                    <img src="qr-clean.jpg" alt="QR for UPI Donation" class="img-fluid" style="max-width: 150px;">
+                </div>
+            </div>
         </div>
     </section>
+    
 
     
 
