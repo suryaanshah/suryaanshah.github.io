@@ -131,13 +131,24 @@
     </section>
 
     <section id="Donation" class="section">
+        <script>
+            function copyMoneroAddress() {
+                const moneroAddress = document.getElementById('monero-address');
+                moneroAddress.select();
+                moneroAddress.setSelectionRange(0, 99999); // For mobile compatibility
+                navigator.clipboard.writeText(moneroAddress.value)
+                    .then(() => alert('Monero address copied to clipboard!'))
+                    .catch(err => alert('Failed to copy: ' + err));
+            }
+        </script>
+        
         <div class="container">
             <h2>Donation</h2>
             <p>You can donate to me using Monero (XMR) or UPI:</p>
             <div class="d-flex flex-wrap align-items-center gap-4">
                 <!-- Monero Donation -->
                 <div class="monero-donation">
-                    <img src="donate-monero-black.png" alt="Monero Logo" class="img-fluid" style="max-width: 100px;">
+                    <img src="donate-monero-black.png" alt="Monero Logo" class="img-fluid" style="max-width: 200px;">
                     <p class="mt-2 mb-1">Monero Address:</p>
                     <div class="input-group">
                         <input type="text" id="monero-address" class="form-control" 
