@@ -140,6 +140,14 @@
                     .then(() => alert('Monero address copied to clipboard!'))
                     .catch(err => alert('Failed to copy: ' + err));
             }
+            function copyUPIid() {
+                const UPIid = document.getElementById('UPI-id');
+                UPIid.select();
+                UPIid.setSelectionRange(0, 99999); // For mobile compatibility
+                navigator.clipboard.writeText(UPIid.value)
+                    .then(() => alert('UPI ID copied to clipboard!'))
+                    .catch(err => alert('Failed to copy: ' + err));
+            }
         </script>
         
         <div class="container">
@@ -163,6 +171,9 @@
                 <div class="upi-donation">
                     <img src="695px-UPI-Logo-vector.svg.png" alt="UPI Logo" class="img-fluid" style="max-width: 150px;">
                     <p class="mt-2 mb-1">Scan QR for UPI Donation:</p>
+                    <input type="text" id="UPI-id" class="form-control" 
+                               value="suryaanshchawla@oksbi" 
+                               readonly>
                     <img src="qr.jpg" alt="QR for UPI Donation" class="img-fluid" style="max-width: 150px;">
                 </div>
             </div>
